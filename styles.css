@@ -1,2 +1,29 @@
 /* Write your CSS here! */
+@media (prefers-reduced-motion: no-preference) {
+    * {
+        scroll-behavior: smooth;
+        font-family: sans-serif;
+        background-color: hsl(65, 31%, 93%);
+        color: dfdfe2;
+    }
 
+    body {
+        margin: 8px;
+        display: block;
+    }
+
+    .funParagraph{
+        font-family: wingdings;
+        color: green;
+    }
+
+    #testP{
+        color: green;
+    }
+
+    #mainHeading {
+        color: red;
+    }
+
+
+}
