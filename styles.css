@@ -25,5 +25,15 @@
         color: red;
     }
 
+    #personalimage {
+        width: 200px;
+        height: auto;
+    }
+
+    #stringartimage {
+        width: 300px;
+        height: auto;
+    
+    }
 
 }
